@@ -1,7 +1,7 @@
 <h1>Hello 👋, I'm Guilherme Garcia</h1>
 <h3>
   21yo student from Brazil <br> 
-  Computer Science 1/8 <br> 
+  Computer Science 5/8 <br> 
   Electronic Engineering 6/10 <br> 
   Studying and improving web dev skills <br>
   Last account: https://github.com/Guilherme-ds-Garcia
