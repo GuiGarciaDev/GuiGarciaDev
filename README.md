@@ -11,7 +11,7 @@
 🌱 Currently diving deeper into Next.js and backend optimization </br>
 
 ### 🛠️ Languages & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,graphql,postgres,mongodbdocker,html,css,sass,tailwind,redux,threejs,materialui,firebase,vercel,postman,figma,github" /> </p> </br>
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,graphql,postgres,mongodb,docker,html,css,sass,tailwind,redux,threejs,materialui,firebase,vercel,postman,figma,github&perline=8" /> </p> </br>
 
 ### 📫 Get in Touch </br>
 Email: guilherme.garcia1136@gmail.com </br>
