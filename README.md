@@ -1,4 +1,4 @@
-👋 ##Hey there! I'm Guilherme Garcia
+##👋 Hey there! I'm Guilherme Garcia
 
 🎓 Computer Science Student (8/8)</br>
 💻 Full Stack Developer — passionate about building web applications that are fast, clean, and user-focused.</br>
